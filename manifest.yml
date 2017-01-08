@@ -1,0 +1,6 @@
+name : "journal"
+website :  "https://github.com/felixqin/jb-theme-felix"
+description :  "A minimalistic theme for Jekyll + Jekyll-Bootstrap based on twitter."
+author:
+  name : "Felix Qin"
+  email : "qfl2000@gmail.com"
